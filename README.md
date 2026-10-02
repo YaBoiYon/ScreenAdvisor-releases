@@ -2,28 +2,19 @@
   <img src="assets/screen_advisor_banner.gif" alt="Screen Advisor" width="520">
 </p>
 
-# Screen Advisor
+<p align="center">
+  <a href="https://github.com/YaBoiYon/ScreenAdvisor-releases/releases/latest/download/ScreenAdvisorSetup.exe">
+    <img src="https://img.shields.io/badge/Download-for%20Windows-3ddc84?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+  </a>
+  <img src="https://img.shields.io/github/v/release/YaBoiYon/ScreenAdvisor-releases?style=for-the-badge&color=ffd24a&label=version" alt="Latest version">
+</p>
 
-Screen Advisor is a Windows app that looks at your screen and answers questions about it: quizzes, forms, charts, error messages, any page of text. Ask by typing, speaking or pressing a key, and Claude answers in a clear, colour-coded panel. Personal information is blacked out on your computer before any screenshot is sent, and the app never clicks or types anything for you.
+<p align="center"><i>Your screen, explained. A little robot that reads what you're looking at and helps.</i></p>
 
-<h2 align="center">
-  <a href="https://github.com/YaBoiYon/ScreenAdvisor-releases/releases/latest/download/ScreenAdvisorSetup.exe">⬇ Download ScreenAdvisorSetup.exe</a>
-</h2>
-<p align="center">Windows 10 or 11 (64-bit) · <a href="https://github.com/YaBoiYon/ScreenAdvisor-releases/releases/latest">Release notes</a></p>
+---
 
-## Setup
+## <img src="assets/screen_advisor_dancer.gif" height="48" align="absmiddle"> Getting started
 
-1. Download **ScreenAdvisorSetup.exe** (link above) and run it.
-2. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. (Windows shows this for apps that aren't code-signed.)
-3. Setup downloads Screen Advisor, checks it against its published checksum, installs it for your user account (no admin rights needed), adds Start Menu and Desktop shortcuts, and opens it.
-4. Paste your **Anthropic API key** when asked. Get one at the [Anthropic Console](https://console.anthropic.com/settings/keys); it's billed by use, separately from any Claude subscription. The key stays on your computer.
-
-Updates are built in: when a new version is out, a green dot appears next to **Help** in the app. Click **Help > Update Available**, then **Update**.
-
-To uninstall: Windows **Settings > Apps** ("Apps & features" on Windows 10, "Installed apps" on Windows 11) > **Screen Advisor** > **Uninstall**.
-
-## License
-
-Copyright (c) 2026 YaBoiYon. All rights reserved. This software is for personal use by invited users only. It may not be copied, modified or redistributed. See [LICENSE](LICENSE).
-
-This repository holds release builds only; the source code is private.
+1. Download **ScreenAdvisorSetup.exe** with the button above.
+2. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**.
+3. Add your own Anthropic API key when the app asks.
