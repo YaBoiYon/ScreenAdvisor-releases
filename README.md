@@ -50,6 +50,6 @@ Totally optional, but I recommend it. Screen Advisor already blacks out your per
 
 ## <img src="assets/screen_advisor_dancer.gif" height="36"> License
 
-Copyright (c) 2026 YaBoiYon. All rights reserved. This is for personal use by people I've invited. Please don't copy, modify, or share it around. See [LICENSE](LICENSE).
+Copyright (c) 2026 YaBoiYon. All rights reserved. Feel free to share the link to this page with anyone who'd find it useful. Just please don't copy, modify, or re-upload the app itself. Send people here instead, so they always get the real, latest version. See [LICENSE](LICENSE).
 
 This repo is just for downloads. The source code is private.
