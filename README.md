@@ -35,6 +35,13 @@ Screen Advisor is a little robot that hangs out in a window on your screen and h
 - **It can be wrong:** it's smart, not perfect. Double-check anything that actually matters.
 - **Keep it fair:** follow your school's or work's rules about using AI.
 
+## <img src="assets/screen_advisor_dancer.gif" height="36"> Want the best experience? Get Ollama
+
+Totally optional, but I recommend it. Screen Advisor already blacks out your personal info before anything gets sent, and **Ollama** makes that even better. It's a free app that runs a little AI right on your own computer, so Screen Advisor can double-check your screen for stuff like emails, passwords, and card numbers, without any of it leaving your PC.
+
+1. Download and install Ollama from [ollama.com](https://ollama.com).
+2. Open a terminal (search "PowerShell" in the Start menu) and run:
+
 ## <img src="assets/screen_advisor_dancer.gif" height="36"> Updates and uninstalling
 
 **Updates are built in.** When there's a new version, a little green dot shows up next to **Help**. Click **Help > Update Available**, then **Update**. Your settings, presets, and key all stay put.
