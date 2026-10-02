@@ -18,3 +18,9 @@
 1. Download **ScreenAdvisorSetup.exe** with the button above.
 2. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**.
 3. Add your own Anthropic API key when the app asks.
+
+
+<table><tr>
+  <td><img src="assets/screen_advisor_dancer.gif" width="120"></td>
+  <td><b>Privacy first.</b> Personal info on screen is blacked out on your PC before anything is sent.</td>
+</tr></table>
