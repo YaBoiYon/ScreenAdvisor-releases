@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screen_advisor_banner_2x.gif" alt="Screen Advisor" width="100%">
+  <img src="assets/screen_advisor_banner.gif" alt="Screen Advisor" width="100%">
 </p>
 
 <p align="center">
